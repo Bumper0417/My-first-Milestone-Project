@@ -67,6 +67,7 @@ This site is hosted using GitHub pages, deployed directly from the master branch
 ### Acknowledgements
 
 - I received inspiration from sites sush as: [NKK](https://www.nkk.no/), [wikipedia](https://no.wikipedia.org/wiki/Staffordshire_bull_terrier) and [Eurobreeders](https://www.eurobreeder.com/).
+- I also received inspiration from the Milestone brief and especially: [GitHub Repo](https://github.com/Code-Institute-Solutions/readme-template), [Source Code Haley Schafer](https://github.com/Code-Institute-Solutions/StudentExampleProjectGradeFive)
 
 
 
