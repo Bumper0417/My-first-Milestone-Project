@@ -73,9 +73,9 @@ a {
 
 /*Jumbotron*/
 
-#landing-view{
-    background-attachment: fixed;
-    background-image: url('../images/staffie1.jpg');
+.jumbotron{
+    background-attachment:fixed;
+    background-image: url(images/staffie2.jpg);
     background-position: bottom;
     background-size: cover;
     height: 100vh;
@@ -83,19 +83,24 @@ a {
     margin-bottom: 0px;
     z-index: 1;
 }
+.fas fa-heart {
+    color: red;
+}
 .top {
     padding-left: 12px;
     margin-top: 12%;
 }
 
-h1 {
+h1{
     padding-top: 5%;
     font-size: 5.5em;
 }
 
+
 .jumbotron p{
     font-size: 2em;
 }
+
 
 /* About Us*/
 
@@ -119,7 +124,7 @@ h2 {
 
 #breedinfo{
     background-attachment: fixed;
-    background-image: url('../images/breed info.jpg');
+    background-image: url(images/breedinfo.jpg);
     background-position: center;
     background-size: cover;
     width: 100vw;
@@ -129,4 +134,56 @@ h2 {
     font-weight: 300;
     margin-bottom: 0px;
 }
+/*Become a breeder*/
+
+
+
+
+.style{
+    box-sizing:border-box}
+.container {
+  width: 100%;
+  background-color: #ddd;
+}
+
+.skills {
+  text-align: right; 
+  padding: 10px;
+  color: white;
+}
+
+.freetime {width: 90%; background-color: #4CAF50;} 
+.commitment {width: 80%; background-color: #2196F3;} 
+
+/*contact*/
+
+.modal-boly {
+    font-size: 1.15em;
+}
+.btn-default{
+    background-color: #cbf;
+}
+
+.privacy-policy{
+    color:blue;
+    font-family: 'Nobile', sans-serif;
+    padding: 0;
+}
+.a.privacy-policy{
+    font-size: inherit;
+}
+.a.privacy-policy:hover {
+    color: orange;
+    text-decoration: none;
+}
+
+/* Media Queries*/
+
+
+
+
+
+
+
+
 
